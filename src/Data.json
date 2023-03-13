@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"jeannette",
+        "email":"janetuwili@gmail.com",
+        "telephone":"0789310350",
+        "age":20
+    },
+    {
+        "id":2,
+        "name":"alice",
+        "email":"alice@gmail.com",
+        "telephone":"0729586839",
+        "age":12
+    },
+    {
+        "id":3,
+        "name":"umuhire",
+        "email":"jaja@gmail.com",
+        "age":10
+    }
+]
