@@ -3,7 +3,7 @@ import React, { Component } from 'react'
  class Footer extends Component {
   render() {
     return (
-      <div className=' fotter grid grid-cols-3 bg-slate-200'>
+      <div className=' footer grid grid-cols-3 bg-slate-200'>
         <div>
           <h2>Free Themes</h2>
           <ul className=''>

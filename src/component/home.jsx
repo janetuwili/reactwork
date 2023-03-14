@@ -1,13 +1,12 @@
 import React, { Component } from 'react'
-import {Card,CardHeader,CardBody,CardFooter,Typography,
-Tooltip,
+import {Card,CardHeader,
 } from "@material-tailwind/react";
 
  class Home extends Component {
   render() {
     return (
       <>
-      <div className='text-white bg-slate-300'>
+      <div className=' bg-slate-300'>
         <h2 className='text-black'>Animal</h2>
         <p className='m-5'>A complete collection of the best animal website templates based on Bootstrap Framework 
           what guarantees you full flexibility and extensibility. If you want to promote animal shelters, zoos, 
