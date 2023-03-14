@@ -30,3 +30,22 @@ code {
   transform: scale(1);
   
 }
+.contact-container{
+  height: 100vh;
+}
+.image-container{
+background-image: url('https://th.bing.com/th/id/R.369b1b478d4b4cb076f57de71104f7c1?rik=sJ76Zz%2bBjLj6bQ&pid=ImgRaw&r=0');
+background-size: cover;
+height: 70vh;
+}
+.picture-container{
+  padding-top: 0px;
+  
+  
+}
+.picture-container img{
+  height: 30vh;
+  width: 100%;
+
+}
+
