@@ -22,6 +22,7 @@ import React, { Component } from 'react'
             <li>entertainment</li>
             <li>walking</li>
             <li>singing</li>
+            <li>studying</li>
 
           </ul>
         </div>
