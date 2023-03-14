@@ -3,7 +3,6 @@ import {Routes, Route} from 'react-router-dom'
 import Navbar from './component/navbar'
 import Menu from './component/Menu'
 import Footer from './component/footer'
-
 import Contact from './component/contact'
 // import Footer from './component/footer'
 import Home from './component/home'
